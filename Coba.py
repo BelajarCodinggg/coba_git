@@ -1,1 +1,1 @@
-print("Coba Coba Git biar pinter")
+print("Coba Coba Git revisi kedua")
